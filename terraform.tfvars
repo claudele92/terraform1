@@ -1,0 +1,5 @@
+region        = "us-west-1"
+ami           = "ami-024527629f55e9322"
+keypair       = "tfuswest1key"
+instance_type = "t2.micro"
+name          = "Dev-server"
